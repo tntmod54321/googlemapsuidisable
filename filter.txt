@@ -1,0 +1,11 @@
+!this is to disable the UI in google streetview, still a drop shadow at the top of the screen and the square/circle cursor with an arrow
+www.google.com##.widget-titlecard-show-settings-menu.widget-titlecard
+www.google.com##.widget-annotation-open
+||maps.gstatic.com/tactile/omnibox/clear-1x-20150504.png$image
+www.google.com##.widget-minimap
+www.google.com##.scene-footer
+www.google.com##.widget-watermark
+www.google.com##.app-horizontal-widget-holder
+www.google.com##.app-vertical-widget-holder
+||maps.gstatic.com/tactile/omnibox/clear-1x-20150504.png$image
+www.google.com##.noprint.widget-pane-toggle-button
