@@ -5,3 +5,5 @@ To install
 1.Copy the URL "https://github.com/tntmod54321/googlemapsuidisable/blob/master/filter.txt"(without quotes)
 2. Paste it into ublock origin -> options -> Filter Lists -> Custom -> Import
 3. And finally click Save changes in the upper right hand corner
+
+To disable it just uncheck the box
