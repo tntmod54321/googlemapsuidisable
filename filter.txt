@@ -1,4 +1,7 @@
-!this is to disable the UI in google streetview, still a drop shadow at the top of the screen and the square/circle cursor with an arrow
+! Title: Google Maps UI Disable
+! Description: this filter is to disable the UI in Google streetview.
+! Homepage: https://github.com/tntmod54321/googlemapsuidisable
+
 www.google.com##.widget-titlecard-show-settings-menu.widget-titlecard
 www.google.com##.widget-annotation-open
 ||maps.gstatic.com/tactile/omnibox/clear-1x-20150504.png$image
