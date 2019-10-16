@@ -16,3 +16,5 @@ www.google.com##.tactile-timemachine__dropdown-container
 www.google.com##.suggestions
 www.google.com##.section-cardbox.section-layout
 www.google.com###searchbox
+www.google.com##.noprint.section-homescreen-expand-entrypoint
+www.google.com##.gb_h.gb_Ag.gb_g.gb_Bg.gb_Ka
