@@ -13,3 +13,6 @@ www.google.com##.app-vertical-widget-holder
 ||maps.gstatic.com/tactile/omnibox/clear-1x-20150504.png$image
 www.google.com##.noprint.widget-pane-toggle-button
 www.google.com##.tactile-timemachine__dropdown-container
+www.google.com##.suggestions
+www.google.com##.section-cardbox.section-layout
+www.google.com###searchbox
