@@ -8,4 +8,5 @@ https://raw.githubusercontent.com/tntmod54321/googlemapsuidisable/master/filter.
 
 To disable it just uncheck the box under Filter Lists -> Custom -> Google Maps UI Disable
   
-  Note: still not perfect, rip.
+  Note: It's not perfect.  
+For example I don't think you can get rid of the mouse cursor (at least not from the HTML as a ublock filter list)  
