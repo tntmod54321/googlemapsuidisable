@@ -7,3 +7,5 @@ https://raw.githubusercontent.com/tntmod54321/googlemapsuidisable/master/filter.
 3. And finally click Save changes in the upper right hand corner  
 
 To disable it just uncheck the box under Filter Lists -> Custom -> Google Maps UI Disable
+  
+  Note: still not perfect, rip.
