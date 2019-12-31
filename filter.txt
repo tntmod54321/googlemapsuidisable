@@ -19,3 +19,4 @@ www.google.com###searchbox
 www.google.com##.noprint.section-homescreen-expand-entrypoint
 www.google.com##.gb_h.gb_Ag.gb_g.gb_Bg.gb_Ka
 www.google.com##.searchbox-hamburger
+www.google.com##.widget-image-header-scrim
